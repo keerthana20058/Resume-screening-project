@@ -1,2 +1,15 @@
-# Resume-screening-project
-Project Features  ✔ Student Performance Prediction ✔ Machine Learning Model Training ✔ Data Visualization ✔ Accuracy Evaluation ✔ Real-Time Prediction  Resume Description  Student Performance Prediction Using Machine Learning  Developed an ML model using Random Forest and Scikit-Learn to predict student academic performance.
+# AI Resume Screening System
+
+A resume analyzer that scores resumes against job requirements.
+
+## Why it stands out
+- NLP-based skill matching
+- Resume scoring
+- Recruiter dashboard concept
+- Real-world hiring use case
+
+## Run
+pip install -r requirements.txt
+python app.py
+
+Open http://127.0.0.1:5000
